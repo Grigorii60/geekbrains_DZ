@@ -1,0 +1,22 @@
+
+.white {
+    height: 32px;
+    width: 32px;
+    background-color: #fff;
+    float: left;
+    border: solid 1px #333;
+    text-align: center;
+}
+  
+.black {
+    height: 32px;
+    width: 32px;
+    background-color: gray;
+    float: left;
+    border: solid 1px #333;
+
+}
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
